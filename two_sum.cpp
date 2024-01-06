@@ -15,3 +15,4 @@ public:
         return ans;
     }
 };
+//TC=O(N2)
