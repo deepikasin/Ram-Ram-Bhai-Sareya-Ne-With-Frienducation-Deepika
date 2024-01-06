@@ -13,3 +13,4 @@ public:
         return u;
     }
 };
+//TC=O(N)
